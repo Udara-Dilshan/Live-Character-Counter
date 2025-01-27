@@ -1,6 +1,3 @@
-Here's a sample README file for your GitHub repository:
-
----
 
 # Live Character Counter
 
@@ -29,7 +26,7 @@ To run this project locally, you only need a browser. No additional dependencies
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/live-character-counter.git
+   git clone https://github.com/Udara-Dilshan/Live-Character-Counter/tree/main
    ```
 
 2. Open the `index.html` file in your browser to view the application.
